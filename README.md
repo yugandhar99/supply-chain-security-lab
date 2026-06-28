@@ -1,6 +1,6 @@
 # Container Supply Chain Security Lab
 
-> **Stage 10 of 12 — Career Progression Project**  
+> **Stage 10 of 12 — Career Pr ogression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.
 
 Local and CI-based DevSecOps lab for container image scanning, SBOM generation, and image signing concepts using Trivy, Syft, Cosign, Docker, and GitHub Actions.
