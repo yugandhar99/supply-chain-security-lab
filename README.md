@@ -1,4 +1,4 @@
-# Container Supply Chain Security Lab
+# Container Supply Ch ain Security Lab
 
 > **Stage 10 of 12 — Career Progression Project**  
 > Portfolio project by **Yugandhar Ethamukkala**.
