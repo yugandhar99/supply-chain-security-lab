@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -euo pipefail
-
+ 
 IMAGE="${IMAGE:-supply-chain-demo:local}"
 
 docker build -t "$IMAGE" app
