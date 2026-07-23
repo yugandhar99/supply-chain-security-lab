@@ -1,4 +1,4 @@
-name: Supply Chain Security Lab
+name: Supply Chain Security L ab
 
 on:
   workflow_dispatch:
