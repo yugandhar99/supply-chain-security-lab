@@ -1,5 +1,5 @@
 {
-  "name": "supply-chain-security-lab", 
+  "name": "supply-chain-security-lab",
   "private": true,
   "version": "1.0.0",
   "description": "Tiny app for container supply-chain security exercises.",
