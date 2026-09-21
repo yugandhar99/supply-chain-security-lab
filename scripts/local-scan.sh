@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euo pipefail
+set -euo pipefail 
 
 IMAGE="${IMAGE:-supply-chain-demo:local}"
 
